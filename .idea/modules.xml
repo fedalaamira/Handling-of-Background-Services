@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReceiverDemo.iml" filepath="$PROJECT_DIR$/ReceiverDemo.iml" group="ReceiverDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ReceiverDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/receiver-service-master.iml" filepath="$PROJECT_DIR$/receiver-service-master.iml" group="receiver-service-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/receiver-service-master-app.iml" filepath="$PROJECT_DIR$/app/receiver-service-master-app.iml" group="receiver-service-master/app" />
+    </modules>
+  </component>
+</project>

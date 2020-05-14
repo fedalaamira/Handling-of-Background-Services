@@ -1,4 +1,4 @@
-package com.example.exo3tdm2tp2
+package dz.esi.receiverdemo
 
 import org.junit.Test
 
